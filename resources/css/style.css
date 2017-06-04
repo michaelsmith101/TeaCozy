@@ -68,3 +68,18 @@ nav span{
   background-color: black;
   margin: auto;
 }
+/*Featured Items Section ('Store' in CodeAcademy Code)*/
+#store{
+  width: 1000px;
+}
+.product img{
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin: 10px;
+}
+.product span{
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+}
